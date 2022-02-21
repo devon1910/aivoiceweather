@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "439200536313",
+    "project_id": "ai-voice-weather",
+    "storage_bucket": "ai-voice-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439200536313:android:f3e3d5b9f6d381f770f428",
+        "android_client_info": {
+          "package_name": "com.example.aivoiceweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439200536313-0muq022r4c4p285u0k74l77fb3gu9vnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aivoiceweather",
+            "certificate_hash": "8a6500e55689c3bfda30f29003a69bf54527a84d"
+          }
+        },
+        {
+          "client_id": "439200536313-brjve64dqg6tiremu76tqru5bei3gee6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzBK9uAizJTtfdqXDdLyCJCE22BCuUZO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439200536313-brjve64dqg6tiremu76tqru5bei3gee6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
